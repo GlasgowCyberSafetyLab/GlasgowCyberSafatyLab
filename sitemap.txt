@@ -7,10 +7,8 @@ http://example.com/Pub/index.html
 http://example.com/2022/07/08/work-present/
 http://example.com/2022/08/02/Paper/
 http://example.com/2022/08/17/Project_start/
-http://example.com/People/index2.html
 http://example.com/news/index2.html
 http://example.com/research/index2.html
-http://example.com/People/index%20(copy).html
 http://example.com/categories/index.html
 http://example.com/news/index.html
 http://example.com/group/index.html
