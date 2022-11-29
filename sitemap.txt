@@ -1,5 +1,5 @@
-http://example.com/2022/11/16/Visit/
 http://example.com/about/index.html
+http://example.com/2022/11/16/Visit/
 http://example.com/People/index.html
 http://example.com/Projects/index.html
 http://example.com/Pub/index.html
@@ -11,7 +11,7 @@ http://example.com/news/index2.html
 http://example.com/research/index2.html
 http://example.com/People/index%20(copy).html
 http://example.com/categories/index.html
-http://example.com/news/index.html
 http://example.com/Openings/index.html
+http://example.com/news/index.html
 http://example.com/group/index.html
 http://example.com/
