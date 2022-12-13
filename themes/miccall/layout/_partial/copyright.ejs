@@ -1,0 +1,10 @@
+        <div id="copyright">
+            <ul>
+                <li>&copy;Powered By <a href="https://glasgowcybersafetylab.github.io/" style="border-bottom: none;">Glasgow cyber Safety Lab</a></li>
+            </ul>
+            <% if(theme.busuanzi.enable === true ) { %>
+                <span id="busuanzi_container_site_pv">VIEW<span id="busuanzi_value_site_pv"></span> </span>
+			<% } else { %>
+				<span id="busuanzi_container_site_pv"> <%- date(Date.now(), 'YYYY') %> </span> 
+			<% } %>
+        </div>
